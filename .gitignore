@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/CodeChallenge/.vs/CodeChallenge
+/CodeChallenge/packages
+/CodeChallenge/VBCodeChallenge/bin
+/CodeChallenge/VBCodeChallenge/obj/Debug
+/CodeChallenge/CodeChallenge/bin
